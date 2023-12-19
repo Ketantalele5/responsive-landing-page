@@ -5,3 +5,5 @@
 - For world classes for Full stack developement
 - To help obtain info about courses
   
+# skills that here utilised:
+- HTML, CSS, JS
